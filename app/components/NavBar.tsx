@@ -21,7 +21,7 @@ const Navbar = () => {
               className="block"
               src="/logo1.png"
               alt="Smart Tools Logo"
-              width={120} // Adjusted width to 120px
+              width={120} 
               height={120} 
             />
           </a>
