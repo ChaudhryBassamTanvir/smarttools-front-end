@@ -29,7 +29,7 @@ const Navbar = () => {
       </div>
       <div className="block md:hidden">
         <button onClick={toggleMenu} className="text-white">
-          <i className="fa fa-bars"></i> {/* Hamburger menu icon */}
+          <i className="fa fa-bars"></i> {/*  menu icon */}
         </button>
       </div>
       <ul
