@@ -22,7 +22,7 @@ const Navbar = () => {
               src="/logo1.png"
               alt="Smart Tools Logo"
               width={120} // Adjusted width to 120px
-              height={120} // Adjusted height to 120px
+              height={120} 
             />
           </a>
         </Link>
